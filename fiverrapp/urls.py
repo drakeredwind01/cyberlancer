@@ -1,5 +1,5 @@
 from django.conf.urls import url
-from fiverrapp import views
+from cyberlancer import views
 
 
 urlpatterns = [

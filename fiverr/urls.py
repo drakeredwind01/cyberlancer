@@ -9,5 +9,5 @@ urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^social/', include('social.apps.django_app.urls', namespace='social')),
     url(r'^auth/', include('django.contrib.auth.urls', namespace='auth')),
-    url('', include('fiverrapp.urls'))
+    url('', include('cyberlancer.urls'))
 ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)

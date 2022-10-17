@@ -1,0 +1,20 @@
+    -Done create virtual env
+    -Done Install and setup
+    -Init database, super user, test run
+    -Create core app for base pages
+    -Creat app for userprofiles
+    -Create app for products
+        -Add categorty model
+    -List out newest products on the front page
+    -Product detail view 
+    -categorty view
+    -Simple search
+    -Vendor detail page
+    -Make it possible to sign up, log in and log out
+    -Create my account page
+    -Add product to the categorty
+    -View cart
+    -Checkout
+    -Implement payment gateway
+    -Admin pages for the Vendor
+    -Deploy project

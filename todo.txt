@@ -18,3 +18,4 @@
     -[    ] Implement payment gateway
     -[    ] Admin pages for the Vendor
     -[    ] Deploy project
+    just to push

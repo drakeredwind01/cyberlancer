@@ -1,2 +1,0 @@
-# cyberlancer
-fiver clone
